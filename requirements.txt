@@ -1,0 +1,10 @@
+Python==3.6.9
+nibabel==3.2.1
+nipype==1.6.0
+numpy==1.19.1
+
+afni==22.1.09
+
+
+MATLAB==R2022a
+libsvm==3.25
